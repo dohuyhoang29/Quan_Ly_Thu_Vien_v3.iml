@@ -1,0 +1,17 @@
+
+R
+java:S1611Ë"6Remove the parentheses around the "cellData" parameter(ÖÒÈÖûÿÿÿÿ
+L
+java:S1611Ì"6Remove the parentheses around the "cellData" parameter(ŠÄ×<
+R
+java:S1611Í"6Remove the parentheses around the "cellData" parameter(Íİéçúÿÿÿÿ
+n
+java:S1192n"XDefine a constant instead of duplicating this literal "No account is selected!" 5 times.(„…›é
+\
+java:S1192m"FDefine a constant instead of duplicating this literal "ERROR" 5 times.(Ù”À
+?
+java:S1604Ó"(Make this anonymous inner class a lambda(›¿èç
+D
+java:S1604ß"(Make this anonymous inner class a lambda(®¡Çûÿÿÿÿ
+P
+java:S3655["5Call "option.isPresent()" before accessing the value.(Ï¬ÚÃúÿÿÿÿ

@@ -1,0 +1,9 @@
+
+O
+java:S1118	":Add a private constructor to hide the implicit public one.(¥æ«j
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+B
+java:S1481)"'Remove this unused "id" local variable.(–ò‡ßûÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(óÉğùÿÿÿÿ

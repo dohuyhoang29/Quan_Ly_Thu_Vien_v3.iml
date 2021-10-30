@@ -1,0 +1,40 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(½ˆ£àÿÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(€êš³şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Í™¬¡øÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(Í™¬¡øÿÿÿÿ
+K
+java:S2209"5Change this instance-reference to a static reference.(úÈë¥
+A
+java:S1168Q"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1168r"+Return an empty collection instead of null.(¥¹ï
+h
+java:S3776x"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.( ¦½
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(Î™ú”øÿÿÿÿ
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ş©öùşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±‚·ëøÿÿÿÿ
+O	java:S106‘"9Replace this use of System.out or System.err by a logger.(Šğš
+B
+java:S1168Ã"+Return an empty collection instead of null.(¥¹ï
+L
+java:S2209Ï"5Change this instance-reference to a static reference.(ãŒÓ
+d
+java:S1192B"IDefine a constant instead of duplicating this literal "quantity" 3 times.(Äš¢™ûÿÿÿÿ
+d
+java:S1192D"IDefine a constant instead of duplicating this literal "due_date" 3 times.(©·Ó’úÿÿÿÿ
+b
+java:S1192C"LDefine a constant instead of duplicating this literal "borrow_date" 3 times.(Ü…Ğ
+`
+java:S1192A"JDefine a constant instead of duplicating this literal "name_book" 3 times.(Ç·‹¿
+a
+java:S1192@"FDefine a constant instead of duplicating this literal "email" 3 times.(¬äÂøÿÿÿÿ
+]
+java:S1192I"GDefine a constant instead of duplicating this literal "status" 3 times.(ïœë
+g
+java:S1192F"LDefine a constant instead of duplicating this literal "return_date" 6 times.(Øòøƒùÿÿÿÿ
+f	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ”Ê©
+l	java:S117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º†è¿ıÿÿÿÿ

@@ -1,0 +1,358 @@
+[INFO ] 2021-09-27 20:21:06.772 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-27 20:21:15.450 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-27 20:21:15.655 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-27 20:21:15.737 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-27 20:21:19.385 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-27 20:21:19.426 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-27 20:21:21.623 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-27 20:21:21.690 [JavaFX Application Thread] com.controller.AddAccountController - Click cancel on add account screen
+[INFO ] 2021-09-27 20:21:24.569 [JavaFX Application Thread] com.controller.AdminHomeController - Click edit button
+[ERROR] 2021-09-27 20:21:24.570 [JavaFX Application Thread] com.controller.AdminHomeController - No account is selected
+[INFO ] 2021-09-27 20:21:33.529 [JavaFX Application Thread] com.controller.AdminHomeController - Click edit button
+[INFO ] 2021-09-27 20:21:33.529 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-09-27 20:21:33.576 [JavaFX Application Thread] com.controller.EditAccountController - Show edit account screen
+[INFO ] 2021-09-27 20:21:45.841 [JavaFX Application Thread] com.controller.EditAccountController - Click submit button to edit account
+[INFO ] 2021-09-27 20:21:45.907 [JavaFX Application Thread] com.controller.EditAccountController - Edit account success
+[INFO ] 2021-09-27 20:21:45.927 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-27 20:21:50.721 [JavaFX Application Thread] com.controller.AdminHomeController - Click edit button
+[INFO ] 2021-09-27 20:21:50.721 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-09-27 20:21:50.737 [JavaFX Application Thread] com.controller.EditAccountController - Show edit account screen
+[INFO ] 2021-09-27 20:22:16.106 [JavaFX Application Thread] com.controller.EditAccountController - Click cancel on edit account screen
+[INFO ] 2021-09-27 20:22:16.117 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-28 21:28:30.816 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 00:05:17.577 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 00:05:27.680 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[ERROR] 2021-09-29 00:05:28.099 [JavaFX Application Thread] com.controller.LoginController - Account not exits
+[INFO ] 2021-09-29 00:05:47.999 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 00:05:48.003 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 00:05:48.067 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 00:05:49.984 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 00:05:50.017 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 00:05:52.415 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 00:07:26.113 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 00:07:32.824 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 00:07:32.965 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 00:07:33.003 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 00:07:34.487 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 00:07:34.505 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 00:07:44.687 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 00:09:26.492 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 00:09:33.351 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 00:09:33.491 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 00:09:33.526 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 00:09:34.784 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 00:09:34.801 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 00:09:39.215 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 00:09:58.486 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 00:10:02.072 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 00:10:02.208 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 00:10:02.243 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 00:10:03.392 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 00:10:03.408 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 00:10:04.447 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 00:13:31.209 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 00:13:39.399 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 00:13:39.539 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 00:13:39.573 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 00:13:41.120 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 00:13:41.137 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 00:13:41.944 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 00:14:34.458 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 00:14:40.215 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 00:14:40.357 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 00:14:40.391 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 00:14:42.896 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 00:14:42.912 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 00:14:43.903 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 00:14:47.687 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 00:14:51.840 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 00:14:54.320 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 00:15:04.815 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 00:15:04.901 [JavaFX Application Thread] com.controller.AddAccountController - Add account success
+[INFO ] 2021-09-29 00:15:04.915 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 00:15:08.159 [JavaFX Application Thread] com.controller.AdminHomeController - Click delete button
+[INFO ] 2021-09-29 00:15:08.160 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-09-29 00:15:08.161 [JavaFX Application Thread] com.controller.AdminHomeController - Show delete screen
+[INFO ] 2021-09-29 00:15:09.190 [JavaFX Application Thread] com.controller.AdminHomeController - Click OK on delete screen
+[INFO ] 2021-09-29 00:15:09.275 [JavaFX Application Thread] com.controller.AdminHomeController - Delete success
+[INFO ] 2021-09-29 00:15:09.294 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 15:11:26.315 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 15:11:33.240 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 15:11:33.697 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 15:11:33.795 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 15:11:35.960 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 15:11:36.008 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 15:11:52.352 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:11:57.928 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:11:59.288 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:00.832 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:02.232 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:03.496 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:04.480 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:11.392 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:13.552 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:19.248 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:20.568 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:22.264 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:34.480 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:36.120 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:37.993 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:12:46.744 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:14:36.667 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 15:14:40.736 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 15:14:40.875 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 15:14:40.911 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 15:14:42.672 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 15:14:42.688 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 15:14:46.232 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:15:23.361 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 15:15:27.456 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 15:15:27.594 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 15:15:27.630 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 15:15:28.912 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 15:15:28.928 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 15:15:33.912 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:15:41.793 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:15:46.768 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:15:49.408 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:15:59.433 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:15:59.519 [JavaFX Application Thread] com.controller.AddAccountController - Add account success
+[INFO ] 2021-09-29 15:15:59.532 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 15:19:28.165 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 15:19:33.361 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 15:19:33.500 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 15:19:33.535 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 15:19:35.312 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 15:19:35.328 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 15:19:52.081 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:20:05.800 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:20:11.560 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:20:33.992 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:21:34.159 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 15:21:38.256 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 15:21:38.394 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 15:21:38.430 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 15:21:39.944 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 15:21:39.960 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 15:21:47.456 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:21:52.992 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:22:01.824 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:22:08.728 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:22:21.712 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 15:22:21.795 [JavaFX Application Thread] com.controller.AddAccountController - Add account success
+[INFO ] 2021-09-29 15:22:21.808 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 15:28:07.231 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 15:28:13.961 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 15:28:14.103 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 15:28:14.256 [JavaFX Application Thread] com.controller.StudentHomeController - Show student home screen
+[INFO ] 2021-09-29 15:28:24.216 [JavaFX Application Thread] com.controller.StudentHomeController - Click logout button
+[INFO ] 2021-09-29 15:28:24.226 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 15:28:29.384 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 15:28:29.387 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 15:28:29.400 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 15:28:38.000 [JavaFX Application Thread] com.controller.AdminHomeController - Click edit button
+[INFO ] 2021-09-29 15:28:38.000 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-09-29 15:28:38.045 [JavaFX Application Thread] com.controller.EditAccountController - Show edit account screen
+[INFO ] 2021-09-29 15:28:40.624 [JavaFX Application Thread] com.controller.EditAccountController - Click submit button to edit account
+[INFO ] 2021-09-29 15:28:56.760 [JavaFX Application Thread] com.controller.EditAccountController - Click submit button to edit account
+[INFO ] 2021-09-29 15:29:04.784 [JavaFX Application Thread] com.controller.EditAccountController - Click submit button to edit account
+[INFO ] 2021-09-29 15:29:10.560 [JavaFX Application Thread] com.controller.EditAccountController - Click submit button to edit account
+[INFO ] 2021-09-29 15:29:21.360 [JavaFX Application Thread] com.controller.EditAccountController - Click submit button to edit account
+[INFO ] 2021-09-29 15:29:21.455 [JavaFX Application Thread] com.controller.EditAccountController - Edit account success
+[INFO ] 2021-09-29 15:29:21.466 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 15:29:23.968 [JavaFX Application Thread] com.controller.AdminHomeController - Click logout button
+[INFO ] 2021-09-29 15:29:23.976 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 15:29:32.744 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 15:29:32.747 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 15:29:34.536 [JavaFX Application Thread] com.controller.LibraryHomeController - Click add new book button
+[INFO ] 2021-09-29 15:29:34.560 [JavaFX Application Thread] com.controller.AddBookController - Show Add book screen
+[INFO ] 2021-09-29 15:29:50.736 [JavaFX Application Thread] com.controller.AddBookController - Click submit button to add book
+[INFO ] 2021-09-29 15:30:00.896 [JavaFX Application Thread] com.controller.AddBookController - Click submit button to add book
+[INFO ] 2021-09-29 15:30:08.025 [JavaFX Application Thread] com.controller.AddBookController - Click submit button to add book
+[INFO ] 2021-09-29 15:30:14.352 [JavaFX Application Thread] com.controller.AddBookController - Click submit button to add book
+[INFO ] 2021-09-29 15:30:18.312 [JavaFX Application Thread] com.controller.AddBookController - Click submit button to add book
+[INFO ] 2021-09-29 15:30:18.379 [JavaFX Application Thread] com.controller.AddBookController - Add book success
+[INFO ] 2021-09-29 15:34:45.476 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 15:34:51.752 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 15:34:51.894 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 15:34:53.233 [JavaFX Application Thread] com.controller.LibraryHomeController - Click add new book button
+[INFO ] 2021-09-29 15:34:53.249 [JavaFX Application Thread] com.controller.AddBookController - Show Add book screen
+[INFO ] 2021-09-29 15:35:03.448 [JavaFX Application Thread] com.controller.AddBookController - Click submit button to add book
+[INFO ] 2021-09-29 15:35:03.517 [JavaFX Application Thread] com.controller.AddBookController - Add book success
+[INFO ] 2021-09-29 15:35:44.785 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 15:35:55.712 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 15:35:55.851 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 15:35:58.160 [JavaFX Application Thread] com.controller.LibraryHomeController - Click add new book button
+[INFO ] 2021-09-29 15:35:58.175 [JavaFX Application Thread] com.controller.AddBookController - Show Add book screen
+[INFO ] 2021-09-29 15:36:09.064 [JavaFX Application Thread] com.controller.AddBookController - Click submit button to add book
+[INFO ] 2021-09-29 15:36:19.296 [JavaFX Application Thread] com.controller.AddBookController - Click submit button to add book
+[INFO ] 2021-09-29 15:36:51.139 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 15:37:03.448 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 15:37:03.586 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 15:37:05.600 [JavaFX Application Thread] com.controller.LibraryHomeController - Click add new book button
+[INFO ] 2021-09-29 15:37:05.615 [JavaFX Application Thread] com.controller.AddBookController - Show Add book screen
+[INFO ] 2021-09-29 15:37:18.072 [JavaFX Application Thread] com.controller.AddBookController - Click submit button to add book
+[INFO ] 2021-09-29 15:37:18.110 [JavaFX Application Thread] com.controller.AddBookController - Add book success
+[INFO ] 2021-09-29 21:32:50.335 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 21:33:00.103 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 21:33:00.363 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 21:33:00.430 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 21:33:02.333 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 21:33:02.402 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 21:33:03.606 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:33:11.166 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:33:20.614 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:33:26.277 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:33:29.286 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:33:45.885 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:33:45.966 [JavaFX Application Thread] com.controller.AddAccountController - Add account success
+[INFO ] 2021-09-29 21:33:45.980 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 21:35:20.612 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 21:35:28.822 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 21:35:28.984 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 21:35:29.024 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 21:35:39.886 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 21:35:39.914 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 21:36:02.677 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:36:07.184 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:36:18.638 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:37:31.511 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 21:37:35.206 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 21:37:35.363 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 21:37:35.407 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 21:37:36.454 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 21:37:36.472 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 21:37:49.326 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:37:49.390 [JavaFX Application Thread] com.controller.AddAccountController - Add account success
+[INFO ] 2021-09-29 21:37:49.402 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 21:37:53.581 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 21:37:53.602 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 21:38:06.294 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:38:06.354 [JavaFX Application Thread] com.controller.AddAccountController - Add account success
+[INFO ] 2021-09-29 21:38:06.365 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 21:38:09.582 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 21:38:09.593 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 21:38:19.086 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:38:27.102 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:38:27.136 [JavaFX Application Thread] com.controller.AddAccountController - Add account success
+[INFO ] 2021-09-29 21:38:27.146 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 21:41:02.673 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 21:41:07.446 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 21:41:07.599 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 21:41:07.638 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 21:41:08.662 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 21:41:08.680 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 21:41:23.838 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-29 21:41:37.733 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-29 21:41:42.911 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-29 21:41:43.079 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-29 21:41:43.123 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-29 21:41:44.694 [JavaFX Application Thread] com.controller.AdminHomeController - Click add new account button
+[INFO ] 2021-09-29 21:41:44.714 [JavaFX Application Thread] com.controller.AddAccountController - Show Add account screen
+[INFO ] 2021-09-29 21:42:02.229 [JavaFX Application Thread] com.controller.AddAccountController - Click submit button to add account
+[INFO ] 2021-09-30 21:45:01.643 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-30 21:45:05.706 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-30 21:45:05.848 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-30 21:45:05.899 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-09-30 21:45:08.130 [JavaFX Application Thread] com.controller.AdminHomeController - Click logout button
+[INFO ] 2021-09-30 21:45:08.141 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-30 21:45:12.387 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-30 21:45:12.390 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-30 21:45:12.440 [JavaFX Application Thread] com.controller.StudentHomeController - Show student home screen
+[INFO ] 2021-09-30 21:45:15.202 [JavaFX Application Thread] com.controller.StudentHomeController - Click my borrow book button
+[INFO ] 2021-09-30 21:45:15.255 [JavaFX Application Thread] com.controller.StudentBorrowController - Show student borrow book screen
+[INFO ] 2021-09-30 21:45:17.138 [JavaFX Application Thread] com.controller.StudentBorrowController - Click return button to return book
+[ERROR] 2021-09-30 21:45:17.138 [JavaFX Application Thread] com.controller.StudentBorrowController - No book is selected
+[INFO ] 2021-09-30 21:45:19.171 [JavaFX Application Thread] com.controller.StudentBorrowController - Click go back library home screen
+[INFO ] 2021-09-30 21:45:19.181 [JavaFX Application Thread] com.controller.StudentHomeController - Show student home screen
+[INFO ] 2021-09-30 21:45:22.482 [JavaFX Application Thread] com.controller.StudentHomeController - Click borrow book button
+[INFO ] 2021-09-30 21:45:25.771 [JavaFX Application Thread] com.controller.StudentHomeController - Click my borrow book button
+[INFO ] 2021-09-30 21:45:25.778 [JavaFX Application Thread] com.controller.StudentBorrowController - Show student borrow book screen
+[INFO ] 2021-09-30 21:45:28.170 [JavaFX Application Thread] com.controller.StudentBorrowController - Click return button to return book
+[INFO ] 2021-09-30 21:45:28.236 [JavaFX Application Thread] com.controller.StudentBorrowController - Show student borrow book screen
+[INFO ] 2021-09-30 21:45:39.347 [JavaFX Application Thread] com.controller.StudentBorrowController - Click go back library home screen
+[INFO ] 2021-09-30 21:45:39.353 [JavaFX Application Thread] com.controller.StudentHomeController - Show student home screen
+[INFO ] 2021-09-30 21:45:42.163 [JavaFX Application Thread] com.controller.StudentHomeController - Click logout button
+[INFO ] 2021-09-30 21:45:42.171 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-09-30 21:45:47.298 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[ERROR] 2021-09-30 21:45:47.301 [JavaFX Application Thread] com.controller.LoginController - Account not exits
+[INFO ] 2021-09-30 21:45:54.594 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-09-30 21:45:54.597 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-09-30 21:45:56.219 [JavaFX Application Thread] com.controller.LibraryHomeController - Click list borrow book button
+[INFO ] 2021-09-30 21:45:56.257 [JavaFX Application Thread] com.controller.BorrowBookController - Show borrow book screen
+[INFO ] 2021-09-30 21:46:15.277 [JavaFX Application Thread] com.controller.BorrowBookController - Click apply on borrow book screen
+[INFO ] 2021-09-30 21:46:19.061 [JavaFX Application Thread] com.controller.BorrowBookController - Click apply on borrow book screen
+[INFO ] 2021-09-30 21:46:21.117 [JavaFX Application Thread] com.controller.BorrowBookController - Click apply on borrow book screen
+[INFO ] 2021-10-01 09:41:52.929 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-10-01 09:42:07.856 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[ERROR] 2021-10-01 09:42:08.005 [JavaFX Application Thread] com.controller.LoginController - Account not exits
+[INFO ] 2021-10-01 09:42:15.375 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-10-01 09:42:15.381 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-10-04 21:06:28.162 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-10-19 17:03:17.266 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-10-19 17:03:22.562 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-10-19 17:03:22.907 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-10-19 17:03:22.974 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-10-19 17:03:26.554 [JavaFX Application Thread] com.controller.AdminHomeController - Click delete button
+[INFO ] 2021-10-19 17:03:26.554 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-10-19 17:03:26.563 [JavaFX Application Thread] com.controller.AdminHomeController - Show delete screen
+[INFO ] 2021-10-19 17:03:27.432 [JavaFX Application Thread] com.controller.AdminHomeController - Click OK on delete screen
+[INFO ] 2021-10-19 17:03:27.535 [JavaFX Application Thread] com.controller.AdminHomeController - Delete success
+[INFO ] 2021-10-19 17:03:27.548 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-10-19 17:03:28.762 [JavaFX Application Thread] com.controller.AdminHomeController - Click delete button
+[INFO ] 2021-10-19 17:03:28.762 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-10-19 17:03:28.763 [JavaFX Application Thread] com.controller.AdminHomeController - Show delete screen
+[INFO ] 2021-10-19 17:03:29.544 [JavaFX Application Thread] com.controller.AdminHomeController - Click OK on delete screen
+[INFO ] 2021-10-19 17:03:29.610 [JavaFX Application Thread] com.controller.AdminHomeController - Delete success
+[INFO ] 2021-10-19 17:03:29.621 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-10-19 17:03:30.777 [JavaFX Application Thread] com.controller.AdminHomeController - Click delete button
+[INFO ] 2021-10-19 17:03:30.777 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-10-19 17:03:30.778 [JavaFX Application Thread] com.controller.AdminHomeController - Show delete screen
+[INFO ] 2021-10-19 17:03:31.759 [JavaFX Application Thread] com.controller.AdminHomeController - Click OK on delete screen
+[INFO ] 2021-10-19 17:03:31.811 [JavaFX Application Thread] com.controller.AdminHomeController - Delete success
+[INFO ] 2021-10-19 17:03:31.821 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-10-19 17:03:32.995 [JavaFX Application Thread] com.controller.AdminHomeController - Click delete button
+[INFO ] 2021-10-19 17:03:32.995 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-10-19 17:03:32.996 [JavaFX Application Thread] com.controller.AdminHomeController - Show delete screen
+[INFO ] 2021-10-19 17:03:33.768 [JavaFX Application Thread] com.controller.AdminHomeController - Click OK on delete screen
+[INFO ] 2021-10-19 17:03:33.803 [JavaFX Application Thread] com.controller.AdminHomeController - Delete success
+[INFO ] 2021-10-19 17:03:33.813 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-10-19 17:03:34.874 [JavaFX Application Thread] com.controller.AdminHomeController - Click delete button
+[INFO ] 2021-10-19 17:03:34.874 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-10-19 17:03:34.875 [JavaFX Application Thread] com.controller.AdminHomeController - Show delete screen
+[INFO ] 2021-10-19 17:03:35.864 [JavaFX Application Thread] com.controller.AdminHomeController - Click OK on delete screen
+[INFO ] 2021-10-19 17:03:35.904 [JavaFX Application Thread] com.controller.AdminHomeController - Delete success
+[INFO ] 2021-10-19 17:03:35.916 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-10-19 17:03:36.986 [JavaFX Application Thread] com.controller.AdminHomeController - Click delete button
+[INFO ] 2021-10-19 17:03:36.987 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-10-19 17:03:36.987 [JavaFX Application Thread] com.controller.AdminHomeController - Show delete screen
+[INFO ] 2021-10-19 17:03:37.791 [JavaFX Application Thread] com.controller.AdminHomeController - Click OK on delete screen
+[INFO ] 2021-10-19 17:03:37.830 [JavaFX Application Thread] com.controller.AdminHomeController - Delete success
+[INFO ] 2021-10-19 17:03:37.839 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-10-19 17:03:39.250 [JavaFX Application Thread] com.controller.AdminHomeController - Click delete button
+[INFO ] 2021-10-19 17:03:39.250 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-10-19 17:03:39.251 [JavaFX Application Thread] com.controller.AdminHomeController - Show delete screen
+[INFO ] 2021-10-19 17:03:39.975 [JavaFX Application Thread] com.controller.AdminHomeController - Click OK on delete screen
+[INFO ] 2021-10-19 17:03:40.014 [JavaFX Application Thread] com.controller.AdminHomeController - Delete success
+[INFO ] 2021-10-19 17:03:40.023 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-10-19 17:03:41.082 [JavaFX Application Thread] com.controller.AdminHomeController - Click delete button
+[INFO ] 2021-10-19 17:03:41.082 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-10-19 17:03:41.082 [JavaFX Application Thread] com.controller.AdminHomeController - Show delete screen
+[INFO ] 2021-10-19 17:03:41.815 [JavaFX Application Thread] com.controller.AdminHomeController - Click OK on delete screen
+[INFO ] 2021-10-19 17:03:41.865 [JavaFX Application Thread] com.controller.AdminHomeController - Delete success
+[INFO ] 2021-10-19 17:03:41.873 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-10-19 17:03:43.066 [JavaFX Application Thread] com.controller.AdminHomeController - Click delete button
+[INFO ] 2021-10-19 17:03:43.066 [JavaFX Application Thread] com.controller.AdminHomeController - Choose a account
+[INFO ] 2021-10-19 17:03:43.067 [JavaFX Application Thread] com.controller.AdminHomeController - Show delete screen
+[INFO ] 2021-10-19 17:03:43.815 [JavaFX Application Thread] com.controller.AdminHomeController - Click OK on delete screen
+[INFO ] 2021-10-19 17:03:43.907 [JavaFX Application Thread] com.controller.AdminHomeController - Delete success
+[INFO ] 2021-10-19 17:03:43.921 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
+[INFO ] 2021-10-19 17:03:54.034 [JavaFX Application Thread] com.controller.AdminHomeController - Click logout button
+[INFO ] 2021-10-19 17:03:54.042 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-10-19 17:03:59.850 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-10-19 17:03:59.855 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-10-19 17:03:59.942 [JavaFX Application Thread] com.controller.StudentHomeController - Show student home screen
+[INFO ] 2021-10-25 20:50:37.428 [JavaFX Application Thread] com.controller.LoginController - Show login screen
+[INFO ] 2021-10-25 20:50:43.342 [JavaFX Application Thread] com.controller.LoginController - Click submit button to login
+[INFO ] 2021-10-25 20:50:43.596 [JavaFX Application Thread] com.controller.LoginController - Login Success
+[INFO ] 2021-10-25 20:50:43.674 [JavaFX Application Thread] com.controller.AdminHomeController - Show Admin Home screen
